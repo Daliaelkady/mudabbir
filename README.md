@@ -42,13 +42,13 @@ It focuses on combining structure, styling, and interactivity to create a smooth
 
 ## 🚀 Live Demo
 
-[View Live Project](https://your-live-project-link)  
+mudabbir1.netlify.app
 
 ---
 
 ## 💻 GitHub Repository
 
-[View Source Code](https://github.com/your-username/your-repo-name)  
+https://github.com/Daliaelkady/mudabbir  
 
 ---
 
