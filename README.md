@@ -42,7 +42,7 @@ It focuses on combining structure, styling, and interactivity to create a smooth
 
 ## 🚀 Live Demo
 
-mudabbir1.netlify.app
+https://mudabbir1.netlify.app
 
 ---
 
